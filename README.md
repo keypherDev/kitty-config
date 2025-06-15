@@ -1,4 +1,4 @@
-# 🐱 Mi Configuración de Kitty Terminal  
+# 🐱 Mi Configuración de Kitty Terminal 🐱        
 
 **Temas, atajos de teclado y ajustes personalizados para Kitty.**  
 
